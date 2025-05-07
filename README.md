@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="48" alt="js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
   <img width="12" />
@@ -24,8 +24,6 @@
   <img src="https://skillicons.dev/icons?i=cs" height="48" alt="cs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cpplogo logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
   <img width="12" />
