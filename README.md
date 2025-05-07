@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center"> sakashima // fullstack web dev </h1>
 
-<!--
-**sakashimaa/sakashimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="48" alt="aws logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="48" alt="js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="48" alt="arch logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="48" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="cs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="48" alt="cpplogo logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="vscode logo"  />
+</div>
