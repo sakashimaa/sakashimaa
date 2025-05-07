@@ -33,4 +33,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="vscode logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="48" alt="nginx logo"  />
 </div>
