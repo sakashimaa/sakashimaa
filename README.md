@@ -17,6 +17,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo"  />
   <img width="12" />
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="48" alt="go logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="48" alt="dotnet logo"  />
